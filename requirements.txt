@@ -1,6 +1,11 @@
+
+Flask
+flask_sqlalchemy
+flask_login
 gunicorn
-flask
-sqlalchemy
+werkzeug
+
+
 
 
 

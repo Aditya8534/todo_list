@@ -4,6 +4,9 @@ flask_sqlalchemy
 flask_login
 gunicorn
 werkzeug
+mysql-connector-python
+
+
 
 
 

@@ -1,5 +1,7 @@
 gunicorn
 flask
 flask_sqlalchemy
+werkzeug.security
+flask_login
 
 

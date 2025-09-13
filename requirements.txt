@@ -2,9 +2,11 @@ gunicorn
 flask
 flask_sqlalchemy
 PyMySQL
-MySQL
+sqlalchemy
+mysql
 
 flask_login
+
 
 
 
